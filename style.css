@@ -14,5 +14,5 @@ p{
 
 ul li{
     background-color: blue;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
